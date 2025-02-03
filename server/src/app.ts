@@ -7,6 +7,7 @@ const app = express();
 // Configure it
 
 /* ************************************************************************* */
+app.listen(3310, () => {});
 
 // CORS Handling: Why is the current code present and do I need to define specific allowed origins for my project?
 
